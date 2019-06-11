@@ -1,0 +1,22 @@
+65,45,30,34,65,67,0.17
+45,90,42,34,50,92,0.17
+Colormixer = {'Color':[234,45,134],'Pos':[233,123,45]}
+Base,37,Shoulder,77,Elbow,113,Rotfingers,34,timing,16,CenterAssembly90,Hydraulicunit,65,GripperActuators,67
+Base,56,Shoulder,88,Elbow,141,Rotfingers,34,timing,20,CenterAssembly248,Hydraulicunit,65,GripperActuators,67
+Base,56,Shoulder,147,Elbow,113,Rotfingers,34,timing,20,CenterAssembly248,Hydraulicunit,65,GripperActuators,67
+Drillname,ER_103,0.6,pos,34,50,45
+Drilllist,ER_103,ER_104,ER_105,ER_6,ER_107,ER_108
+Grippername,GR_1,3,18,pos,23,34,20
+Gripperlist,GR_3,GR_4,GR_5,GR_6,GR_7,GR_8
+Vacuumname,VA_1,3,18,pos,23,34,20
+Vacuumlist,VA_1,VA_2,VA_3,VA_4,VA_5,VA_6
+Fluidicname,FL__1,12,3,pos,34,45,62
+Fluidiclist,FL_1,FL_2,FL_3,_FL_4,FL_5,FL_6,FL_7,FL_8 
+Lasername,LA_1,3,18,pos,23,34,20
+Laserlist,LA_1,LA_2,LA_3,LA_4,LA_5,LA_6
+Solderingname,0.06,pos,23,45,60
+Solderinglist,0.015,0.022,0.0320.05,0.06  
+Camerafunction,Negative,Colordetect,Objectrecognition,featureextract,pos,50,60,43
+CameraSpec,12MP,16MP,18MP,20MP,Hyperspectral
+Colorname,red,blue,green,purple,black,white,yellow,menta
+Colorcodelist,[226,43,138],[47,255,173],[0,255,0],[128,0,128],[0,0,0],[255,255,55],[255,255,0],[139,61,72]

@@ -1,0 +1,3 @@
+
+
+Base,46,Shoulder,139,Elbow,131,Rotfingers,113,timing,15,CenterAssembly250,HydraulicLinear,65,GripperActuators,67
